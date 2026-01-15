@@ -1,0 +1,6 @@
+advent-of-code-data
+fasthtml
+fastcore
+numpy
+scipy
+matplotlib
