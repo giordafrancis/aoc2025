@@ -13,3 +13,5 @@ pip install -r requirements.txt
 ```
 
 To fetch puzzle data automatically, you'll need to configure your AoC session cookie. See [these instructions](https://github.com/wimglenn/advent-of-code-wim/issues/1).
+
+;
